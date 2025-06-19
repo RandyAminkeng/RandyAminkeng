@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [TechShowcase](https://github.com/RandyAminkeng/TechShocase-s-Project)
-- [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Hello World](https://github.com/RandyAminkeng/TechShocase-s-Project)
 
 
 <h2>📺 Popular YouTube Videos</h2>
