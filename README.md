@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [TechShowcase]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/RandyAminkeng/TechShocase-s-Project))
+- [TechShowcase](https://github.com/RandyAminkeng/TechShocase-s-Project)
 - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
